@@ -64,8 +64,8 @@ button{
     border: none;
     border-radius: 35%;
     margin: 17px;
-    font-size: 20px;
-    color: #f44336;
+    font-size: 26px;
+    color:var(--secondary-color);
 }
 button:hover{
     background-color: #00010646;
