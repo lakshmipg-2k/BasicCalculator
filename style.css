@@ -40,7 +40,7 @@ h1{
     height: 673px;
 }
 
-input{
+textarea{
     grid-column: span 4;
     height:107px;
     width: 389px;
@@ -55,6 +55,7 @@ input{
     margin-top:24px;
     margin-bottom: 30px;
     padding: 20px;
+    overflow: hidden;
 }
 button{
     height: 57px;
