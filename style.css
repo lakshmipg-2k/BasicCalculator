@@ -40,7 +40,7 @@ h1{
     height: 673px;
 }
 
-textarea{
+input{
     grid-column: span 4;
     height:107px;
     width: 389px;
