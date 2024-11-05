@@ -2,4 +2,4 @@
 Basic Calculator
 
 Live link
- "https://lakshmipg-2k.github.io/BasicCalculator/"
+ "https://melpg.github.io/BasicCalculator/"
